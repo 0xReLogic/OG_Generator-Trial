@@ -1,0 +1,24 @@
+{
+  "name": "relogic-og-generator",
+  "version": "0.1.0",
+  "description": "CLI tool to generate static OG HTML files from CSV/JSON for SPA, Flutter Web, etc.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "bin": {
+    "relogic-og-generator": "dist/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "csv-parse": "^5.5.0",
+    "handlebars": "^4.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "typescript": "^5.0.0"
+  }
+}
