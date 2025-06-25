@@ -64,9 +64,4 @@ A: Tidak, tool ini 100% statis dan berjalan di CLI.
 
 ReLogic_OG_Generator dirilis dengan lisensi MIT. Bebas digunakan untuk keperluan pribadi maupun komersial.
 
-## Catatan Hak Cipta & Ketentuan Buyer
 
-- Anda dilarang memodifikasi atau memperjualbelikan ulang produk digital ini.
-- Produk ini hanya untuk penggunaan pribadi/bisnis internal sesuai kebutuhan Anda.
-- Dengan membeli produk ini, Anda setuju dengan ketentuan Projects.co.id dan siap mengikuti proses verifikasi.
-- Developer (ReLogic) siap memberikan penjelasan teknis jika diperlukan oleh buyer.
